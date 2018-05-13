@@ -1,7 +1,7 @@
 # Denomination Calculator
 
 > A Vue.js project to denominate IDR amount <br/>
-Check out the [demo](http://http://sherlycalc.s3-website-ap-southeast-1.amazonaws.com/)
+Check out the [demo](http://sherlycalc.s3-website-ap-southeast-1.amazonaws.com/)
 
 ## Build Setup
 
