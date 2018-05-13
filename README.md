@@ -5,8 +5,6 @@
 ## Build Setup
 
 ``` bash
-# open folder
-
 # install dependencies
 npm install
 
@@ -28,9 +26,9 @@ npm test
 
 ## Development Environment
 
-Ubuntu 16.04 LTS
-node v8.11.1
-npm v5.6.0
+- Ubuntu 16.04 LTS
+- node v8.11.1
+- npm v5.6.0
 
 Using:
 - Vue.js 2 framework
